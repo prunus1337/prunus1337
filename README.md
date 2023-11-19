@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">Hi there, I'm Weever! 👋</p>
 
-<!--
-**prunus1337/prunus1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+<p align="center">
+  <a>
+    Python / CloudFlare / Java / Photoshop / be lazy
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=py,cloudflare,java,ps" alt="Python, CloudFlare, Java, Photoshop">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Statistics: 
+  
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=prunus1337&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prunus1337&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  </a>
+</p>
+
+## My projects
+
+[Custom windows shutdown](https://github.com/prunus1337/CustomWindowsShutdown) - idk.. useless project?
+
+[Packet Manager](https://github.com/prunus1337/PacketManager) - Обычная программа на Python которая способна устанавливать программы с помощью ссылок и выбора в cmd. Только для Windows 10-11 x64. 
