@@ -3,13 +3,13 @@
 ## Skills:
 <p align="center">
   <a>
-    Python / CloudFlare / Java / Photoshop / be lazy
+    Python / Java (learning) / C# (learning)
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,cloudflare,java,ps" alt="Python, CloudFlare, Java, Photoshop">
+    <img src="https://skillicons.dev/icons?i=py,java,c#" alt="Python, CloudFlare, Java, C#">
   </a>
 </p>
 
@@ -26,4 +26,4 @@
 
 [Custom windows shutdown](https://github.com/prunus1337/CustomWindowsShutdown) - idk.. useless project?
 
-[Packet Manager](https://github.com/prunus1337/PacketManager) - Обычная программа на Python которая способна устанавливать программы с помощью ссылок и выбора в cmd. Только для Windows 10-11 x64. 
+[Packet Manager](https://github.com/prunus1337/PacketManager) - Обычная программа на Python которая способна устанавливать программы с помощью ссылок и выбора в cmd. Только для Windows 10-11 x64. (useless)
