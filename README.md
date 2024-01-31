@@ -1,29 +1,19 @@
-<p align="center">Hi there, I'm Weever! 👋</p>
-
-## Skills:
-<p align="center">
-  <a>
-    Python / Java (learning) / C# (learning)
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,java,c#" alt="Python, CloudFlare, Java, C#">
-  </a>
-</p>
-
-## GitHub Statistics: 
-  
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=prunus1337&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prunus1337&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-  </a>
-</p>
-
-## My projects
-
-[Custom windows shutdown](https://github.com/prunus1337/CustomWindowsShutdown) - idk.. useless project?
-
-[Packet Manager](https://github.com/prunus1337/PacketManager) - Обычная программа на Python которая способна устанавливать программы с помощью ссылок и выбора в cmd. Только для Windows 10-11 x64. (useless)
+<div align="center">
+  <div id="header">
+    <img autoplay="autoplay" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="100"/>
+  </div>
+  <div align="center" id="badges">
+    <a href="mailto:weever1337@gmail.com">
+      <img src="https://img.shields.io/badge/weever1337%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://t.me/weever">
+      <img src="https://img.shields.io/badge/-weever-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>  
+  <img src="https://komarev.com/ghpvc/?username=weever&style=flat-square&color=blue" alt=""/>
+</div>
+ 
+### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prunus1337&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prunus1337&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prunus1337&theme=dark)
